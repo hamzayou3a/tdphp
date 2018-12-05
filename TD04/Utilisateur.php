@@ -2,7 +2,7 @@
 
 require_once 'Model.php';
 require_once 'Trajet.php';
-
+ 
 class Utilisateur {
 
     private $login;
